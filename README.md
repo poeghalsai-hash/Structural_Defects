@@ -1,3 +1,6 @@
+
+App link:https://structuraldefects-j8ctohcvirwcduuvbyxk24.streamlit.app/
+
 An AI-powered structural defect detection engine built using  Google Gemini for multimodal understanding. The
 solution includes:
 1. Image Upload & Preprocessing:
