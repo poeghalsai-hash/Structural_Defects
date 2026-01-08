@@ -1,5 +1,4 @@
-An AI-powered structural defect detection engine built using Convolutional Neural
-Networks (CNN) and powered by Google Gemini for multimodal understanding. The
+An AI-powered structural defect detection engine built using  Google Gemini for multimodal understanding. The
 solution includes:
 1. Image Upload & Preprocessing:
 o Site engineers upload construction site images via a front-end interface
